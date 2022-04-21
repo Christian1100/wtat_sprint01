@@ -1,0 +1,19 @@
+{
+  "name": "sprint01_connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Christian1100/wtat_sprint01.git"
+  },
+  "author": "Christian Kaltenbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christian1100/wtat_sprint01/issues"
+  },
+  "homepage": "https://github.com/Christian1100/wtat_sprint01#readme"
+}
